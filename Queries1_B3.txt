@@ -1,0 +1,37 @@
+﻿Bonjour à tous,
+
+Une fois votre base de données créée et remplie, écrivez les requêtes suivantes et envoyez moi,
+une fois 
+tout testé les scripts que vous avez écrit pour ces requêtes.
+
+
+
+Votre envoi doit être fait par mail d'ici la prochaine séance dont le sujet sera :
+
+B320172018-VOTRENOM-Queries1.
+
+
+
+Il ne s'agit pas d'être noté mais je tiens à ce que ce soit un travail réellement personnel pour me
+permettre de
+juger où vous en êtes sur le SQL de base :-).
+
+
+
+Requêtes à exécuter :
+
+
+	1 - Lister les devis en cours de validité pour tous les clients triés par date de devis decroissante
+
+	2 - Donner, par client, le nombre de devis qui ont donné lieu à une facture sur l'année 2017
+
+	3 - Donner le CA réalisé par client sur l'année 2017
+
+	4 - Donner le CA prévisionnel par clients sur l'année 2017
+
+	5 - Donner le CA réalisé par produits vendus depuis le 31/03/2017
+
+	6 - Quelle est la catégorie de produits pour laquelle le nombre de produits vendus sur l'année 2017
+	est le plus important ?
+
+	7 - Quel est le montant moyen des factures émises par catégorie sur l'année 2017 ?

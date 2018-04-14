@@ -1,0 +1,12 @@
+Oracle Users
+
+----------------------
+user:	SYS AS SYSDBA 
+	SYSTEM
+mdp:	iuf68de4
+----------------------
+user:	myUser
+mdp:	2H55Cgnb
+----------------------
+user:	Aquiflor
+mdp:	kU639kwB
